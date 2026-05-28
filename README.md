@@ -11,12 +11,11 @@
 🌐 **Live Demo:** [ai-travel-planner-ply0.onrender.com](https://ai-travel-planner-ply0.onrender.com)
 💻 **GitHub:** [AI-Travel-Planner](https://github.com/harshupadhyay14/AI-Travel-Planner)
 
-![alt text](<Screenshot 2026-05-28 084025.png>)
-![alt text](<Screenshot 2026-05-28 084037.png>)
-![alt text](<Screenshot 2026-05-28 084634.png>)
-![alt text](<Screenshot 2026-05-28 084652.png>)
-![alt text](<Screenshot 2026-05-28 084709.png>)
-
+<img width="946" height="413" alt="Screenshot 2026-05-28 084025" src="https://github.com/user-attachments/assets/10f3cb99-179f-4a4f-83af-a02fc03a6c75" />
+<img width="948" height="413" alt="Screenshot 2026-05-28 084037" src="https://github.com/user-attachments/assets/067f8e9e-74be-44c1-a7b3-d727fe74a539" />
+<img width="947" height="411" alt="Screenshot 2026-05-28 084634" src="https://github.com/user-attachments/assets/0834644f-b663-405c-9d01-acd60edc3f41" />
+<img width="943" height="367" alt="Screenshot 2026-05-28 084652" src="https://github.com/user-attachments/assets/d3dba437-5848-49e0-8b18-ac9358ae893c" />
+<img width="948" height="412" alt="Screenshot 2026-05-28 084709" src="https://github.com/user-attachments/assets/67ac8ec1-704f-42ac-b1a0-db11bd895ae7" />
 ---
 
 ## 📌 Overview
